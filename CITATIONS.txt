@@ -1,0 +1,29 @@
+•	[https://www.pyimagesearch.com/] (https://www.pyimagesearch.com/)
+•	[https://www.tensorflow.org/tutorials/images/transfer_learning] 
+•	https://osf.io/preprints/3gph4/
+•	https://link.springer.com/chapter/10.1007/978-981-33-4673-4_49
+•	https://ieeexplore.ieee.org/abstract/document/9312083/
+•	https://link.springer.com/chapter/10.1007/978-981-33-4673-4_48
+•	https://www.researchgate.net/profile/Akhyar_Ahmed/publication/344173985_Face_Mask_Detector/links/5f58c00ea6fdcc9879d8e6f7/Face-Mask-Detector.pdf
+•	https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/search.py
+•	https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset
+•	MRep: https://github.com/chandrikadeb7/Face-Mask-Detection
+•	(https://opencv.org/)
+•	https://en.wikipedia.org/wiki/SciPy
+•	https://www.geeksforgeeks.org/command-line-option-and-argument-parsing-using-argparse-in-python/
+•	https://pillow.readthedocs.io/en/stable/
+•	(https://caffe.berkeleyvision.org/)
+•	https://becominghuman.ai/face-detection-with-opencv-and-deep-learning-from-video-part-2-592e2dee648
+•	(https://keras.io/)
+•	(https://www.tensorflow.org/)
+•	https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+•	(https://arxiv.org/abs/1801.04381)
+•	MProfile: https://github.com/chandrikadeb7
+•	https://docs.streamlit.io/
+•	https://en.wikipedia.org/wiki/NumPy
+•	https://en.wikipedia.org/wiki/OpenCV
+•	https://en.wikipedia.org/wiki/Matplotlib
+•	https://en.wikipedia.org/wiki/Scikit-learn
+•	https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+•	http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/
+•	http://www.rust-lang.org/conduct.html
